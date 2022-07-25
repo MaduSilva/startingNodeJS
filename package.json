@@ -1,0 +1,23 @@
+{
+  "name": "starting_nodejs",
+  "version": "1.0.0",
+  "description": "First project with nodejs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaduSilva/startingNodeJS.git"
+  },
+  "author": "Madu Silva",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MaduSilva/startingNodeJS/issues"
+  },
+  "homepage": "https://github.com/MaduSilva/startingNodeJS#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19"
+  }
+}
